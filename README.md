@@ -1,4 +1,4 @@
-# Learning-Note
+# Algorithm-Learning-Note
 
 个人学习笔记。当前包含算法基础框架与单片机笔记。
 
