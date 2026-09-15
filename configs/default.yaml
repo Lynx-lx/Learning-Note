@@ -1,0 +1,9 @@
+seed: 42
+ml:
+  knn_k: 3
+  kmeans_k: 3
+llm:
+  top_k: 2
+vision:
+  image_size: [8, 8]
+  n_classes: 2
